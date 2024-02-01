@@ -6,7 +6,7 @@ services:
   expose:
    - "80"
   environment:
-   - HOST_NAME=gp1f5act14.fjeclot.net
+   - HOST_NAME=gp1f5act14
 
  lb:
   image: nginx:latest
